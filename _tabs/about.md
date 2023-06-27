@@ -8,7 +8,7 @@ Hello there!
 
 My name is Shruti and I’m a 19-year old student studying engineering at IIT Kanpur.
 
-![A picture of me was here if you can't see ](/home/shruti/ShrutiRDalvi.github.io/_site/assets/img/favicons/about/IMG_7796 (1).JPG)
+<img src="../assets/IMG_7796 (1).JPG" alt="A picture of me" width="50%" height="50%">
 
 I was born in Goa,India and travelled the world as a baby, and have spent the past 10 years in Bangalore.
 
