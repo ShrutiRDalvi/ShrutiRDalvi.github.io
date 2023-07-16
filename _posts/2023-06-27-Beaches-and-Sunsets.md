@@ -1,6 +1,6 @@
 ---
 title: Beaches and Sunsets
-date: 2023-06-27 12:00:00 +0530
+date: 2023-07-16 12:00:00 +0530
 categories: [Travel, Goa]
 tags: [beach,sunset,goa,travel]     # TAG names should always be lowercase
 toc: false 
@@ -18,9 +18,6 @@ Growing up, people constantly reminded me how fortunate I was to get to visit su
 I think I’ll make this a series of posts covering mainly beaches and sunsets, architecture and well maybe something else I find interesting
 
 ## Beaches and Sunsets: 
-
-
-<img src="../_site/assets/IMG_7796 (1).JPG" alt="" width="400" height="300">
 
 
 
