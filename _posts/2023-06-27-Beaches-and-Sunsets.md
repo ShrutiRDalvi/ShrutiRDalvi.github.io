@@ -1,7 +1,7 @@
 ---
 title: Beaches and Sunsets
 date: 2023-06-27 12:00:00 +0530
-categories: [Beaches, Goa]
+categories: [Travel, Goa]
 tags: [beach,sunset,goa,travel]     # TAG names should always be lowercase
 toc: false 
 comments: false 
