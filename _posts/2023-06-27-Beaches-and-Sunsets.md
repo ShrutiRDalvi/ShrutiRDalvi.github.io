@@ -5,7 +5,6 @@ categories: [Travel, Goa]
 tags: [beach,sunset,goa,travel]     # TAG names should always be lowercase
 toc: false 
 comments: false 
-
 ---
 
 
