@@ -1,0 +1,23 @@
+---
+title: Zero Point Two Five
+date: 2023-09-03 16:00:00 +0530
+categories: [College]
+tags: [college]     # TAG names should always be lowercase
+toc: false 
+comments: false 
+---
+
+![Desktop View](../../assets/img/post2/img1.jpeg){: width="972" height="589" .w-50 .left} I’m not usually fond of cliche sayings but I’ll put this out there. My first year of college went by in the blink of an eye. I like to think I’ve succeeded at a few things and but to be honest, I’ve failed even more. There have been days I’ve called my parents sobbing, while there were also moments when I was the happiest I’d ever been, thus encapsulating the true essence of what people call a <i>‘rollercoaster ride’</i>. To top it off, its been less than a year here, and so much has happened in less than 365 days. 
+
+![Desktop View](../../assets/img/post2/img2.jpeg){: width="200" height="250" w-5 .right}I started writing this by asking myself how I’ve changed over the course of the two semesters here. Mine isn’t the average introvert to extrovert story. I was an ambivert when I came here, and still am. I don’t have a huge friend circle or anything of that sorts, just a few people I share everything with, and don’t get me wrong, I like it that way. What has changed however, is how I see the people around me , and consequently how I see the world. I have a added respect for people, because of the vast diversity of people I’ve had the privilege of meeting.
+
+I have a few new favourite foods(shoutout to the friend that introduced me to masala soda , its my go to drink now), and I’ve found myself to be less complaining of the world in general. I can peacefully co-exist with mosquitos and lizards, which wasnt something I would normally do back home.I no longer wake up at 6am everyday and can sort of give gaali’s in Hindi now(sorry parents)(emphasis on the sort of because even though I believe I give good gaalis, my friends disagree.)
+
+![Desktop View](../../assets/img/post2/img4.jpeg){: width="196" height="200" w-50 .left}![Desktop View](../../assets/img/post2/img5.jpeg){: width="196" height="200" w-50 .left}![Desktop View](../../assets/img/post2/img6.jpeg){: width="196" height="200" w-50 .left}
+
+
+Campus is different from the real world. Firstly on the surface, it’s beautiful, every season brings something unique to the landscape and I’ve been in awe of the beauty of this place multiple times. The winter fog,the monsoon rains, the heat of summer and yet somehow no matter how gruelling the weather, its still gorgeous. ![Desktop View](../../assets/img/post2/img3.jpeg){: width="300" height="300" w-50 .left}Theres always life , someday you'll notice a tree with yellow flowers for the first time, while sometimes all you’ll need is a sunset to make your day better. Sunsets are gorgeous and rainy days bring their own charm(despite the major flooding that happens XD). On a more subtler note, on campus you’re shielded from the suffering outside. Campus makes stuff easier and sometimes its easy to get carried away by the sort of utopia? Its almost like a parent sponsored vacation and sometimes you have to remind yourself that the real part of the world that needs our help lies outside the campus gates. 
+
+You might be wondering if I’ve decided what I want to do in the future as its said that college helps you figure that out. Well that's one thing that hasn't changed since I started here, I have absolutely no idea what the future looks like career-wise, and even though it does scare me sometimes, I think thats what makes my life exciting. Oscar Wilde said that if you know what you want to be, then you inevitably become it - that is your punishment, but if you never know, then you can be anything. I wont give any advice or gyaan here, because I dont think I’ve reached there yet, however feel free to hit me up if you want to hear a cool story or entertaining anecdote.
+
+![Desktop View](../../assets/img/post2/img7.jpeg){: width="250 height="250" w-50 .right}Is life here stressful sometimes, Yes!. Were there times I absolutely wanted to quit, Yes! Do I question doing engineering occasionally,Yes! Would I want it any other way, absolutely no. If I were to sum up the last two semester in one word, I’d say gratitude. I'm grateful for the people I’ve gotten to meet, the exposure, the lessons and the good times. I wouldnt want it any other way. It's scary how fast two semesters went by but I live in hope of the remaining 0.75 left.
