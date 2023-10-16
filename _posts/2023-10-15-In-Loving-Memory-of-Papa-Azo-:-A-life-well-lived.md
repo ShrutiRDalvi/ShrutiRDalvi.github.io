@@ -25,7 +25,7 @@ Azo always loved embracing the new changes that came his way.Despite his age, he
 He also had a love for exploring new foods. Whenever he came across intriguing or unique snacks in the supermarket, he couldn't resist buying them. His childlike enthusiasm for trying new things and finding joy in the small pleasures of life was truly admirable.
 
 ![Desktop View](../../assets/img/post3/Image1.jpeg){: width="250" height="300" . w-50  } *Fun Loving*
-Azo really had a thing for mangoes. He studied agriculture back in the day, which explains his love for these tropical treats. I once asked him about grafting mango trees, and he patiently sat me down and walked me through the process with drawings and everything
+Azo was really fond of mangoes. He studied agriculture back in the day, which explains his love for these tropical treats. I once asked him about grafting mango trees, and he patiently sat me down and walked me through the process with drawings and everything
 
 He knew a lot about the different types of mangoes you find in Goan markets. He'd tell you their origin stories, how to eat them , whether to slice them, or  eat them with a spoon, did they have tiny threads in them, would they taste sweet or sweet and sour, he knew it all.When we went to Goa for vacation, he'd take it upon himself to pick out the very best mangoes from the local markets, making sure we all got a taste of nothing but the best. 
 
