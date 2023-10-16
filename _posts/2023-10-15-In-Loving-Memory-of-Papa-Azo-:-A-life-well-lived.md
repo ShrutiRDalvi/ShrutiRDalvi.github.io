@@ -31,6 +31,6 @@ He knew a lot about the different types of mangoes you find in Goan markets. He'
 
 ![Desktop View](../../assets/img/post3/Image5.jpeg){: width="250" height="300" . w-50 .left } 
 
-I’ll end this post by stating a line that bought tears to my eyes when I read it. In a letter addressed to my grandmother in 1968, Azo wrote “__Let us both so live that when inevitable end will come to us , those living still will feel that we should have lived longer.__” You were successful in that endeavour Azo. Those of us left behind wish you could have stayed with us longer. The world lost a devoted husband, father, and grandfather, and, more importantly, even a kinder and better human being. If I can become even half the person you were, Azo, I will consider myself successful. Heres to a life well lived! Hari Om Tatsat! Om Shanti!
+I’ll end this post by stating a line that bought tears to my eyes when I read it. In a letter addressed to my grandmother in 1968, post their engagement, Azo wrote “__Let us both so live that when inevitable end will come to us , those living still will feel that we should have lived longer.__” You were successful in that endeavour Azo. Those of us left behind wish you could have stayed with us longer. The world lost a devoted husband, father, and grandfather, and, more importantly, even a kinder and better human being. If I can become even half the person you were, Azo, I will consider myself successful. Heres to a life well lived! Hari Om Tatsat! Om Shanti!
 
 
