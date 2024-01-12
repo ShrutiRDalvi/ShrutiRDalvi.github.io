@@ -8,7 +8,7 @@ Hello!
 
 My name is Shruti Dalvi and I’m a sophomore studying engineering at IIT Kanpur.I was born in Goa,India and have been living in Bangalore for the past 10 years or so.
 
-![Desktop View](../assets/img/IMG_7796%20(1).JPG){: width="972" height="589" .w-50 .left}
+![Desktop View](../assets/img/IMG_7796%20(1).JPG){: width="1000" height="589" .w-50 .left}
 
 On campus when I'm not busy attending classes you'll find me playing basketball, having a conversation about anything under the sun or doing a bunch of other random things. I love playing sports, going on adventures, reading books ,learning about new things and making most of my friends laugh at my jokes. That aside I am a huge nature lover and big time sunset admirer and my phone gallery is filled with pretty sunsets. As for where my career or professional life is headed, I have absolutely no idea and have been living in the delusion that college will help me figure it out.
 
