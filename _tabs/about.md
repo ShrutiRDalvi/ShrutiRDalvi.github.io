@@ -14,8 +14,6 @@ On campus when I'm not busy attending classes you'll find me playing basketball,
 
 This blog serves as my personal canvas, where I’ll pour out my thoughts, experiences, and emotions, supplemented with pictures that encapsulate the essence of such moments.I don't know how regular I will be with posting content here, but nevertheless, I hope that every reader gains something worthwhile or insightful from here. I’m incredibly excited to see where this goes, happy reading! 
 
-If you found something interesting, want to have a conversation or have any sort of feedback, feel free to contact me! 
-
-
+If you found something interesting, want to have a conversation or have any sort of feedback,feel free to contact me! 
 
 
